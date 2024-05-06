@@ -1,0 +1,22 @@
+#cv-form{
+   /* ?display: none; */
+   }
+
+.myimg{
+    border: 1px solid;
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+}
+
+.background{
+    background-color: #c4dffc;
+    
+}
+button:hover {
+    background-color: #0056b3;
+  }
+
+#cv-template{
+    display: none;
+}
